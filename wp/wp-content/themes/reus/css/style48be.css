@@ -5293,7 +5293,7 @@
     }
     .footer_contact_txt {
         width: 100%;
-        background-color: #e4ded7;
+        background-color: #f5f7f9;
         padding-bottom: 30px;
         text-align: center;
         font-size: 14px;
@@ -5331,7 +5331,7 @@
     }
     .footer_contact_link {
         width: 100%;
-        background-color: #c1b9af;
+        background-color: #e6eef3;
         box-sizing: border-box;
         text-align: center
     }
@@ -5380,7 +5380,7 @@
     footer {
         background: url(../img/common/footer_bg_sp%402x.png) #222f38;
         background-size: 100%;
-        background-position: right top 20px;
+        background-position: top 20px right 96px;
         background-repeat: no-repeat;
         padding-bottom: 10px;
         color: #88827c;
