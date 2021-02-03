@@ -1687,7 +1687,7 @@
         width: 25px;
         height: 45px;
         margin-left: -12px;
-        border: 1px solid #0b163c;
+        border: 1px solid #ffffff;
         border-radius: 50px;
         box-sizing: border-box
     }
@@ -1699,7 +1699,7 @@
         width: 5px;
         height: 5px;
         margin-left: -3px;
-        background-color: #0b163c;
+        background-color: #ffffff;
         border-radius: 100%;
         -webkit-animation: sdb10 2s infinite;
         animation: sdb10 2s infinite;
@@ -4574,7 +4574,7 @@
     }
     .top_sc2 .service_list>li h3 {
         padding: 16px 0 13px;
-        background-color: #dacfbc;
+        background-color: rgb(102 132 162);
         text-align: center;
         color: #4a525f;
         font-weight: 400
@@ -4647,7 +4647,7 @@
     }
     .top_sc3 .sc_inner {
         width: 100%;
-        margin: 0 auto 40px
+        margin: 0 auto 40px;
     }
     .top_sc3 .top_tl {
         font-size: 23px;
@@ -5491,7 +5491,7 @@
         width: 25px;
         height: 45px;
         margin-left: -12px;
-        border: 1px solid #273961;
+        border: 1px solid #e4e4e4;
         border-radius: 50px;
         box-sizing: border-box
     }
@@ -5503,7 +5503,7 @@
         width: 5px;
         height: 5px;
         margin-left: -3px;
-        background-color: #273961;
+        background-color: #e4e4e4;
         border-radius: 100%;
         -webkit-animation: sdb10 2s infinite;
         animation: sdb10 2s infinite;
