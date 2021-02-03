@@ -5383,7 +5383,7 @@
         background-position: top 20px right 96px;
         background-repeat: no-repeat;
         padding-bottom: 10px;
-        color: #88827c;
+        color: #c9d2e6;
         padding-top: 120px
     }
     footer .footer_inner {
@@ -5407,7 +5407,7 @@
     }
     footer small {
         font-family: Open Sans;
-        color: #88827c;
+        color: #d2d2d2;
         font-size: 11px
     }
     footer a {
@@ -5707,7 +5707,7 @@
         font-size: 16px
     }
     .container a {
-        color: #806e66;
+        color: #d2d2d2;
     }
     .contact_head p a {
         color: #806e66;
