@@ -1,0 +1,2 @@
+ErrorDocument 404 /moveinfo.html
+ErrorDocument 403 /moveinfo.html
