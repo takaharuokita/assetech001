@@ -4321,7 +4321,7 @@
     .main_v_area {
         position: relative;
         z-index: 9000;
-        height: 60vh;
+        height: 80vh;
         width: 100%;
         overflow: hidden
     }
@@ -4405,7 +4405,7 @@
     }
     .main_v_area .txt_box {
         position: absolute;
-        top: 30%;
+        top: 38%;
         left: 50%;
         width: 240px;
         text-align: center;
@@ -4469,7 +4469,7 @@
         width: 3000px!important
     }
     .contents_inner {
-        padding-top: 50px
+        padding-top: 180px
     }
     #video-background {
         position: absolute;
