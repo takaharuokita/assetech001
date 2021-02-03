@@ -4146,7 +4146,8 @@
     }
     .gnav_list li:nth-child(1) a {
         position: relative;
-        color: #273961;
+        color: #ececec;
+        text-shadow: 1px 1px 3px #272940;
     }
     .gnav_list li:nth-child(1) a img {
         height: 15px
@@ -4165,7 +4166,8 @@
     }
     .gnav_list li:nth-child(2) a {
         position: relative;
-        color: #273961;
+        color: #ececec;
+        text-shadow: 1px 1px 3px #272940;
     }
     .gnav_list li:nth-child(2) a img {
         height: 15px
@@ -4184,7 +4186,8 @@
     }
     .gnav_list li:nth-child(3) a {
         position: relative;
-        color: #273961;
+        color: #ececec;
+        text-shadow: 1px 1px 3px #272940;
     }
     .gnav_list li:nth-child(3) a img {
         height: 15px
@@ -4203,7 +4206,8 @@
     }
     .gnav_list li:nth-child(4) a {
         position: relative;
-        color: #273961;
+        color: #ececec;
+        text-shadow: 1px 1px 3px #272940;
     }
     .gnav_list li:nth-child(4) a img {
         height: 15px
