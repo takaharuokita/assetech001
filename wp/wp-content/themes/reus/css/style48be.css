@@ -4094,7 +4094,7 @@
     }
     .loading img {
         position: absolute;
-        top: 0;
+        top: -80px;
         left: 0;
         right: 0;
         bottom: 0;
@@ -4532,7 +4532,7 @@
         text-align: center;
         position: relative;
         background-blend-mode: multiply;
-        background-color: #e7f7fb;
+        background-color: #fff;
     }
     .top_sc2 .read_box:after {
         content: "";
@@ -4555,6 +4555,7 @@
         overflow: hidden;
         background: url(../img/top/img/h2_tl_service_sp.png);
         background-position: top center;
+        opacity: 0.8;
         background-repeat: no-repeat;
         background-size: 100% auto;
         z-index: 100
@@ -4592,7 +4593,7 @@
         display: block
     }
     .top_sc2 .service_list>li h3 span.f_yumin.planning {
-        background: url(../img/top/service/stl_planing_sp%402x.png);
+        background: url(../img/top/service/title_sp001.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
