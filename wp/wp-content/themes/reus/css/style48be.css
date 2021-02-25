@@ -551,7 +551,7 @@
     .main_v_area .movie {
         position: relative;
         height: 100vh;
-        background-color: #c49886
+        background-color: #a6bdda
     }
     .main_v_area .movie img {
         width: 100%
@@ -1596,7 +1596,7 @@
         background-size: 650px;
         background-position: right 20px center;
         background-repeat: no-repeat;
-        color: #88827c;
+        color: #f5f7f9;
         padding-top: 120px
     }
     footer .footer_inner {
@@ -1618,7 +1618,7 @@
     }
     footer small {
         font-family: Open Sans;
-        color: #88827c;
+        color: #969696;
         font-size: 13px
     }
     footer a {
@@ -2853,7 +2853,7 @@
         margin-bottom: 50px
     }
     .service_sc1 .service_list .list_box {
-        background-color: #a9b5bf;
+        background-color: rgb(102 132 162);
         box-sizing: border-box;
         padding: 25px 25px 35px;
         text-align: center
@@ -2953,7 +2953,7 @@
         float: left
     }
     .service_sc2 .service_list .list_box {
-        background-color: #a9b5bf;
+        background-color: rgb(102 132 162);
         box-sizing: border-box;
         padding: 30px 20px 35px;
         text-align: center
@@ -3064,7 +3064,7 @@
         float: left
     }
     .service_sc3 .service_list .list_box {
-        background-color: #a9b5bf;
+        background-color: rgb(102 132 162);
         box-sizing: border-box;
         padding: 30px 20px 35px;
         text-align: center
@@ -3087,7 +3087,7 @@
         margin-left: -10px
     }
     .service_sc3 .service_list .list_box img {
-        margin-bottom: 35px!important;
+        margin-bottom: 20px;
         width: 80px;
     }
     .service_sc3 .service_list .list_box p {
@@ -3166,7 +3166,7 @@
         float: left
     }
     .service_sc4 .service_list .list_box {
-        background-color: #a9b5bf;
+        background-color: rgb(102 132 162);
         box-sizing: border-box;
         padding: 30px 20px 45px;
         text-align: center
@@ -4627,19 +4627,19 @@
         background-size: auto 12px
     }
     .top_sc2 .service_list>li h3 span.f_yumin.marketing {
-        background: url(../img/top/service/stl_marketing_sp%402x.png);
+        background: url(../img/top/service/title_sp002.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
     }
     .top_sc2 .service_list>li h3 span.f_yumin.creative {
-        background: url(../img/top/service/stl_crelative_sp%402x.png);
+        background: url(../img/top/service/title_sp003.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
     }
     .top_sc2 .service_list>li h3 span.f_yumin.analytics {
-        background: url(../img/top/service/stl_analytics_sp%402x.png);
+        background: url(../img/top/service/title_sp004.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
@@ -4791,8 +4791,9 @@
         background: url(../img/common/bg_workspc.png);
         background-repeat: no-repeat;
         background-size: 100% auto;
+        background-position-y: 15px;
         width: 82%;
-        padding: 3.1% 3.6% 18.2%
+        padding: 0.1% 3.6% 18.2%
     }
     .top_sc3 .slider_works .works_list_pc img {
         width: 618px
@@ -4874,12 +4875,13 @@
     }
     .top_sc3 .client_list_wrap .client_list li {
         float: left;
-        width: 48%;
-        margin-right: 4%;
-        margin-bottom: 4%
+        width: 49%;
+        /* margin-right: 4%; */
+        margin-bottom: 4%;
     }
     .top_sc3 .client_list_wrap .client_list li:nth-child(2n) {
-        margin-right: 0
+        margin-right: 0;
+        display: none;
     }
     .top_sc3 .client_list_wrap .client_list li img {
         width: 100%
@@ -4904,7 +4906,7 @@
         text-align: center;
         position: relative;
         background-blend-mode: multiply;
-        background-color: #fffaf0;
+        background-color: #f0f8ff;
     }
     .top_sc4 .read_box:after {
         content: "";
@@ -5016,7 +5018,7 @@
         font-size: 13px;
         writing-mode: vertical-lr;
         transform: rotateZ(180deg);
-        text-shadow: 1px 1px 2px #c3ac9c;
+        text-shadow: 1px 1px 2px #9ca4c3;
     }
     .top_sc5 {
         position: relative
@@ -5238,7 +5240,7 @@
         text-align: center;
         position: relative;
         background-blend-mode: multiply;
-        background-color: #fbf5e7;
+        background-color: #e7f2fb;
     }
     .top_sc6 .read_box:after {
         content: "";
@@ -5407,14 +5409,14 @@
         background-position: top 20px right 96px;
         background-repeat: no-repeat;
         padding-bottom: 10px;
-        color: #c9d2e6;
+        color: #f5f7f9;
         padding-top: 120px
     }
     footer .footer_inner {
         position: relative;
         text-align: center;
         padding-top: 56%;
-        padding-bottom: 10px
+        padding-bottom: 10px;
     }
     footer dl {
         margin-bottom: 30px
@@ -6724,7 +6726,7 @@
     .service_sc3 .tl_h2 img {
         height: 36px;
         width: auto;
-        margin-left: 13%;
+        margin-left: 19%;
     }
     .service_sc3 .tl_h2 span {
         margin-top: 10px;
@@ -6825,7 +6827,7 @@
     .service_sc4 .tl_h2 img {
         height: 36px;
         width: auto;
-        margin-left: 6%;
+        margin-left: 13%;
     }
     .service_sc4 .tl_h2 span {
         margin-top: 10px;
@@ -7822,7 +7824,7 @@ select::-ms-expand {
 
 @media screen and (max-width: 480px) {
     .contents_inner {
-        padding-top: 90px;
+        padding-top: 180px;
     }
 }
 
