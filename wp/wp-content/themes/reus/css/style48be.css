@@ -1596,7 +1596,7 @@
         background-size: 650px;
         background-position: right 20px center;
         background-repeat: no-repeat;
-        color: #f5f7f9;
+        color: #e6eef3;
         padding-top: 120px
     }
     footer .footer_inner {
@@ -1618,7 +1618,7 @@
     }
     footer small {
         font-family: Open Sans;
-        color: #969696;
+        color: #74797f;
         font-size: 13px
     }
     footer a {
@@ -1933,7 +1933,7 @@
         margin-bottom: 115px
     }
     .contact_head p a {
-        color: #806e66;
+        color: #285688;
         text-decoration: underline
     }
     .contact_head p a:hover {
