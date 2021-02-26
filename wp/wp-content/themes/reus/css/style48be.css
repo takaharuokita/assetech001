@@ -1748,7 +1748,7 @@
     }
     .topice_path li {
         display: inline-block;
-        color: #806e66;
+        color: #85a0a2;
         font-size: 11px
     }
     .topice_path li:after {
@@ -4250,11 +4250,17 @@
         left: 0
     }
     .gnav_list li:nth-child(5) {
-        margin-bottom: 40px
+        margin-bottom: 40px;
+        background: #58617d;
+        width: 60%;
+        text-align: center;
+        padding: 10px 0;
+        border-radius: 20px;
     }
     .gnav_list li:nth-child(5) a {
         position: relative;
-        color: #273961;
+        color: #ececec;
+        text-shadow: 1px 1px 3px #272940;
     }
     .gnav_list li:nth-child(5) a img {
         height: 15px
@@ -5738,7 +5744,8 @@
     }
     .contact_head p a {
         color: #245f93;
-        text-decoration: underline
+        text-decoration: underline;
+        font-size: 26px;
     }
     .step {
         margin-bottom: 40px
